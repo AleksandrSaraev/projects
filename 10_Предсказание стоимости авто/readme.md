@@ -12,11 +12,11 @@
 - Построение, подбор гиперпараметров, сравнение нескольких моделей градиентного бустинга
 - Обучение и проверка итоговой модели на тестовой выборке
 ## Библиотеки
-Pandas
-sklearn
-xgboost
-catboost
-lightgbm
-hyperopt
-numpy
-matplotlib
+Pandas  
+sklearn  
+xgboost  
+catboost  
+lightgbm  
+hyperopt  
+numpy  
+matplotlib  
